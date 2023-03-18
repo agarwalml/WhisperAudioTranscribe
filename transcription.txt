@@ -1,0 +1,10 @@
+Clip length: 216.0
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:30.000 --> 00:40.000]  Turn down for what?
+[01:00.000 --> 01:20.000]  Turn down for what?
+[01:20.000 --> 01:38.000]  Turn down for what?
+[01:50.000 --> 02:19.000]  Turn down for what?
+[02:20.000 --> 02:35.000]  Turn down for what?
+[02:50.000 --> 03:13.000]  Turn down for what?
+[03:20.000 --> 03:33.000]  Turn down for what?

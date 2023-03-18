@@ -1,0 +1,12 @@
+pytube requires pip installation
+
+OR pip3 install git+https://github.com/glubsy/pytube@nfunc_regex_patch
+
+ffmpeg needs to be pip installed
+
+in "/Users/agarwalml/Documents/GitHub/Audio-transcriber/test/lib/python3.10/site-packages/pytube/cipher.py",
+Change this line:
+411:     transform_plan_raw = find_object_from_startpoint(raw_code, match.span()[1] - 1)
+to this:
+152: transform_plan_raw = js
+
